@@ -1,5 +1,5 @@
 # AudioToy
-8x8 channel hardware for Teensy Audio
+8x8 channel hardware for Teensy 4.0 Audio
 
 A CS42448 8x8 channel audio board, with headers for off-board input and output amplifiers.
 
