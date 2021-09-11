@@ -1,9 +1,9 @@
 # AudioToy
-8x8 channel modular hardware for Teensy 4.0 Audio.
+8x8 channel modular hardware for Teensy 4.0 Audio with balanced inputs and outputs at pro-audio levels.
 
-A CS42448 8x8 channel audio board, with headers for off-board input and output amplifiers. The board includes a14 pin stacking header for the 16x16 hardware under development by Paul Stoffregen.
+A CS42448 8x8 channel audio board, with headers for off-board input and output amplifiers. The board includes a 14-pin stacking header for the 16x16 TDM hardware under development by Paul Stoffregen.
 
-The board is intended to be compatible in all respects with Paul's 8x8 revised audio board. (see https://hackaday.io/project/2984/logs)
+The board is compatible with Paul's 8x8 revised audio board and the CS42448 object in the Audio Library. (see https://hackaday.io/project/2984/logs)
 
 2 input preamplifier module designs: one with mic/line capabilities (Combo XLR socket), the other for line/instrument inputs (TRS). All pre-amps can handle balanced or unbalanced inputs.
 All input module controls (gains and pads) are controlled by I2C, and insertion of a TRS plug into the Combo socket is remotely readable.
