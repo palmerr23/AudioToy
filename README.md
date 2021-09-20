@@ -14,5 +14,6 @@ Two small subsidiary PCBs complete the set: An I2C to GPIO expander to drive som
 
 This repo has production Gerber files, a BoM and schematic for each of the boards, along with brief design notes.
 
-Copyright on this material is reserved. Permission is hereby granted for non-commerical production of these items under the CERN Open Hardware Licence Version 2 (Weakly Reciprocal) https://ohwr.org/cern_ohl_w_v2.txt
-  
+Permission is hereby granted to use this material under the terms of the CERN Open Hardware Licence Version 2 (Weakly Reciprocal) https://ohwr.org/cern_ohl_w_v2.txt  
+
+In brief, this licence grants full, non-exclusive rights to the intellectual property requiring that the modified designs are made available if a product is being Made or Conveyed.
