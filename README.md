@@ -14,6 +14,8 @@ Two small subsidiary PCBs complete the set: An I2C to GPIO expander to drive som
 
 This repo has production Gerber files, a BoM, placement file and schematic for each of the boards.
 
+Files like "i2c expander RevE_top_cpl.csv" "i2c expander RevE_top_bom.csv" are JLPCB assembly files/
+
 Permission is hereby granted to use this material under the terms of the CERN Open Hardware Licence Version 2 (Weakly Reciprocal) https://ohwr.org/cern_ohl_w_v2.txt  
 
 In brief, this licence grants full, non-exclusive rights to the intellectual property requiring that the modified designs are made available if a product is being Made or Conveyed.
