@@ -12,7 +12,7 @@ An output module capable of driving 600  ohm outputs at +8dBm.
 
 Two small subsidiary PCBs complete the set: An I2C to GPIO expander to drive some functions on the input boards and provide level shifting for a WS2812B LED string, to indicate each channel's level. 
 
-This repo has production Gerber files, a BoM and schematic for each of the boards, along with brief design notes.
+This repo has production Gerber files, a BoM, placement file and schematic for each of the boards.
 
 Permission is hereby granted to use this material under the terms of the CERN Open Hardware Licence Version 2 (Weakly Reciprocal) https://ohwr.org/cern_ohl_w_v2.txt  
 
