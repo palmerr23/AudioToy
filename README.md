@@ -1,3 +1,4 @@
+##This design has been superseded by the Teensy 8x8 Audio Board https://github.com/palmerr23/Teensy8x8AudioBoard
 # AudioToy
 8x8 channel modular hardware for Teensy 4.0 Audio with balanced inputs and outputs at pro-audio levels.
 
